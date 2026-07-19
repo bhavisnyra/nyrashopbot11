@@ -1,0 +1,2 @@
+# nyrashopbot11
+key
