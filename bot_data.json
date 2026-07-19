@@ -1,0 +1,52 @@
+{
+  "verified": [
+    8734515995
+  ],
+  "admin_ids": [],
+  "keys": {
+    "ff_ios_1_31 Days": []
+  },
+  "files": {},
+  "balances": {},
+  "pending_orders": {},
+  "purchase_history": {
+    "8503115617": [
+      {
+        "product": "Migul [PRO]",
+        "duration": "31 Days",
+        "price": "1.00",
+        "method": "Binance",
+        "date": "2026-07-18 16:30 UTC"
+      }
+    ]
+  },
+  "custom_cats": [],
+  "price_overrides": {
+    "ff_ios_1_31 Days": "1.00"
+  },
+  "resellers": {
+    "8734515995": {}
+  },
+  "settings": {
+    "shop_name": "Nyra Legacy",
+    "support": "@NyraHere",
+    "binance_id": "1220953196",
+    "upi_qr_file_id": null
+  },
+  "_state": {},
+  "reseller_prices": {},
+  "banned_users": [],
+  "all_users": {
+    "8503115617": {
+      "name": "Strawhat",
+      "username": "strawhatt35",
+      "joined": "2026-07-19 08:02 UTC"
+    },
+    "8734515995": {
+      "name": "Sw7",
+      "username": "",
+      "joined": "2026-07-19 08:05 UTC"
+    }
+  },
+  "balance_history": {}
+}
